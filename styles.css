@@ -1,0 +1,39 @@
+h2{ font-family: "Sofia", sans-serif;
+  font-size: 60px;
+  text-emphasis-color: #81F5FF ;
+  text-shadow: 3px 3px 3px #ababab;}
+h5{ font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 15px;
+  color: blue;
+}
+h3{ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: 40px 70px 90px 60px;
+  color:black;
+height: 20px;
+  width: 500px;
+ background-color: lightgreen;
+}
+p{ font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: rgb(30, 3, 56);
+  font-size: 30 px;
+  margin: 40px 70px 90px 60px;}
+ul{
+  font-family:'Courier New', Courier, monospace;
+  font-size:25px;
+  color: 81F5FF;
+}
+
+header nav {
+  box-shadow: 1cm;
+  background-color:fdf4f5;
+}
+
+
+
+
+body{
+  background-color:fdf4f5;
+ 
+
+}
+
